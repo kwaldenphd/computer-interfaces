@@ -64,6 +64,8 @@ Example:
 
 ## Key Terms
 
+<p align="center"><img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/OS_Diagram.png?raw=true" width="500"></p>
+
 **Operating System**
 - "An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs...For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware...Operating systems are found on many devices that contain a computer – from cellular phones and video game consoles to web servers and supercomputers" ([Wikipedia](https://en.wikipedia.org/wiki/Operating_system))
 
@@ -80,8 +82,7 @@ Examples of specific operating systems include:
 - Android
 - Chromium
 
-OS DIAGRAM
-<p align="center"><img src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/ALU_Diagram.gif?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/OS_Layers.png?raw=true" width="500"></p>
 
 **The Kernel**
 - core of the OS, controls access to computer hardware, performs scheduling tasks
@@ -95,8 +96,7 @@ OS DIAGRAM
 **Virtual Memory**
 - An approach to managing memory that provides "an idealized abstraction of the storage resources that are actually avaialble on a given machine" (Abhishek Bhattacharjee and Daniel Lustig, *[Architectural and Operating System Support for Virtual Memory](https://link.springer.com/book/10.1007/978-3-031-01757-5).* Springer, 2017. pp. 1) 
 
-TERMINAL IMAGE
-<p align="center"><img src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/ALU_Diagram.gif?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Computer_Terminal.png?raw=true" width="500"></p>
 
 **Computer Terminal**
 - "[a] device usually made up of a display unit and a keyboard which allows entry and display of information when on-line to central computer system" ([Wikipedia](https://simple.wikipedia.org/wiki/Computer_terminal))
@@ -105,8 +105,7 @@ TERMINAL IMAGE
 - "a family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix, whose development started in 1969 at the Bell Labs research center by Ken Thompson, Dennis Ritchie, and others" ([Wikipedia](https://en.wikipedia.org/wiki/Unix))
 - [Click here](https://www.opengroup.org/membership/forums/platform/unix) to learn more about Unix and its parent organization, The Open Group.
 
-PERSONAL COMPUTER IMAGE
-<p align="center"><img src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/ALU_Diagram.gif?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Personal_Computer.png?raw=true" width="500"></p>
 
 **Personal Computer**
 - "A personal computer (PC) is a multi-purpose microcomputer whose size, capabilities, and price make it feasible for individual use. Personal computers are intended to be operated directly by an end user, rather than by a computer expert or technician" ([Wikipedia](https://en.wikipedia.org/wiki/Personal_computer))
@@ -145,11 +144,11 @@ The sections of this lab that involve working at the command line are based on a
 - Ian Milligan and James Baker, "Introduction to the Bash Command Line," The Programming Historian 3 (2014), https://doi.org/10.46430/phen0037.
 - Miriam Posner, "[Getting Started With Unix](https://github.com/miriamposner/unix/blob/main/getting_started_with_commandline.md)" tutorial
 
-GUI IMAGE
+<p align="center"><img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Mac_GUI.png?raw=true" width="500"></p>
 
 The usual way that computer users today interact with their system is through a Graphical-User Interface, or GUI. This means that when you go into a folder, you click on a picture of a file folder; when you run a program, you click on it; and when you browse the web, you use your mouse to interact with various elements on a webpage. Before the rise of GUIs in the late 1980s, however, the primary way to interact with a computer was through a command-line interface (CLI).
 
-CLI IMAGE
+<p align="center"><img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Shell.png?raw=true" width="500"></p>
 
 Command-line interfaces allow for more detail when running some programs, because you can add modifiers to specify exactly how you want your program to run. They can be easily automated through scripts, which are essentially recipes of text-based commands.
 
@@ -183,7 +182,7 @@ Windows users will need to take one extra step and install Git Bash.
 
 *NOTE: The following screenshots show the Mac OS terminal/shell. Folks with other operating systems should still be able to follow the procedural steps.*
 
-<p align="center"><img align="center" src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/Fig_A1.png?raw=true" alt="Image of Mac Shell icon"></p>
+<p align="center"><img align="center" src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Fig_A1.png?raw=true" alt="Image of Mac Shell icon"></p>
  
 To launch the terminal...
 
@@ -193,11 +192,11 @@ Mac:
 Windows:
 - Run Git Bash from the directory that you installed it in. You will have to run it as an administrator - to do so, right click on the program and select 'Run as Administrator.'
 
-<p align="center"><img align="center" src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/Fig_A.png?raw=true" alt="Image of Mac Shell"></p>
+<p align="center"><img align="center" src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Fig_A.png?raw=true" alt="Image of Mac Shell"></p>
  
 When the terminal or shell is running, you will see a window that looks similar to the image above.
 
-<p align="center"><img align="center" src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/Fig_B.png?raw=true" alt="Image of Mac terminal settings"></p>
+<p align="center"><img align="center" src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Fig_B.png?raw=true" alt="Image of Mac terminal settings"></p>
  
 For Mac users who want to customize the terminal's visual appearance:
 - Open the `Settings` menu (in `Preferences`, under `Terminal`)
@@ -207,7 +206,7 @@ Windows users can right-click on the application's top bar and select `Propertie
 
 ## Terminal Wayfinding
 
-<p align="center"><img align="center" src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/Fig_C.jpeg?raw=true" alt="Image of Mac shell"></p>
+<p align="center"><img align="center" src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Fig_C.jpeg?raw=true" alt="Image of Mac shell"></p>
 
 *NOTE: The following text and images are adapted from UCLA faculty member Miriam Posner's "[Getting Started With Unix](https://github.com/miriamposner/unix/blob/main/getting_started_with_commandline.md)" tutorial*
 
@@ -229,7 +228,7 @@ A couple other useful navigation tools:
 - Type `clear` into the terminal and press `Return`/`Enter` to clear the screen
 - When you're ready to close the terminal window, type `exit` and press `Return`/`Enter`
 
-<p align="center"><img align="center" src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/Fig_D.jpeg?raw=true" alt="Diagram illustrating terminal syntax"></p>
+<p align="center"><img align="center" src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Fig_D.jpeg?raw=true" alt="Diagram illustrating terminal syntax"></p>
 
 A couple notes on terminal syntax:
 - `commands` tell the computer to perform an action 
@@ -273,7 +272,7 @@ This directory information is called a `path` (sometimes called a `file path` wh
 
 So in the `/Users/kwalden` example, the terminal is running in the `kwalden` subfolder which is located in the `Users` folder. The `Users` folder is located at my computer's `root`.
 
-<p align="center"><img align="center" src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/Fig_E.jpeg?raw=true" alt="Diagram illustrating computer directory structure"></p>
+<p align="center"><img align="center" src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Fig_E.jpeg?raw=true" alt="Diagram illustrating computer directory structure"></p>
 
 The inverted tree diagram shown above shows one example of a computer's file system.
 - The `root` (top of the tree) is your computer's hard drive.
@@ -291,7 +290,7 @@ Typically by default, your terminal will open in the folder or directory for you
 
 Let's see what other files and subdirectories are located in your current path by using the list command (`ls`). Type `ls` in the terminal and press `Enter`/`Return`.
 
-<p align="center"><img align="center" src="https://github.com/kwaldenphd/how-computers-work/blob/main/images/Fig_F.jpeg?raw=true" alt="Terminal screenshot showing directory contents"></p>
+<p align="center"><img align="center" src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Fig_F.jpeg?raw=true" alt="Terminal screenshot showing directory contents"></p>
 
 Items that are followed by a file extension (e.g. `.docx`, `.txt`, `.xlsx`, etc) are generally individual files. Items that do not have a file extension are typically subfolders or subdirectories.
 
