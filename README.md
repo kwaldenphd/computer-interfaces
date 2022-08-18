@@ -110,6 +110,8 @@ Examples of specific operating systems include:
 **Personal Computer**
 - "A personal computer (PC) is a multi-purpose microcomputer whose size, capabilities, and price make it feasible for individual use. Personal computers are intended to be operated directly by an end user, rather than by a computer expert or technician" ([Wikipedia](https://en.wikipedia.org/wiki/Personal_computer))
 
+## Comprehension Check
+
 <table>
  <tr><td>
 <img src="https://www.freeiconspng.com/thumbs/survey-icon/survey-icon-12.png" alt="Clipboard icon" width="50"/></td>
@@ -315,7 +317,7 @@ We can use the `ls` command again to see the materials located on our Desktop. W
 
 Instead of using `cd` followed by a relative or absolute path, we can use `cd ..` (`cd` followed by a space and two periods) to move up one level in the tree. Type `cd ..` in the terminal and press `Enter`/`Return`. You can test using `pwd` if needed, but you should be back in the specific user profile folder.
 
-### Comprehension Check
+## Comprehension Check
 
 <table>
  <tr><td>
@@ -337,7 +339,7 @@ Describe/explain what these commands do:
 
 Difference between relative and absolute path
 
-### Additional Resources
+## Additional Resources
 
 If you want to further explore command line syntax:
 - Software Carpentries, "[The Unix Shell](https://swcarpentry.github.io/shell-novice/)" lesson
