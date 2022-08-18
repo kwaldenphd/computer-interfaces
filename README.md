@@ -163,7 +163,7 @@ Windows users will need to take one extra step and install Git Bash.
 <table>
  <tr><td>
 <img src="https://elearn.southampton.ac.uk/wp-content/blogs.dir/sites/64/2021/04/PanPan.png" alt="Panopto logo" width="50"/></td>
-  <td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4742435f-7684-4e44-9a6a-aef40170547b">Command Line Overview</a></td>
+  <td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a62d663b-d047-474f-abc5-aef4018603f7">Keyboards, Command-Line Interfaces & Graphical User Interfaces</a></td>
   </tr>
   </table>
 
@@ -177,6 +177,10 @@ Windows users will need to take one extra step and install Git Bash.
 
 **Shell**
 - The shell is the user interface for accessing all of the operating system’s services and applications. The shell is the layer of code surrounding the operating system kernel. Your operating system’s shell is the command processor that runs in the CLI (command-line interface) as opposed to the GUI interface that we typically use.
+
+For more background and additional information:
+- [Crash Course Computer Science, "Keyboards & Command Line Interfaces"](https://nerdfighteria.info/v/4RPtJ9UyHS0/)
+- [Crash Course Computer Science, "Graphical User Interfaces"](https://nerdfighteria.info/v/XIGSJshYb90/)
 
 ## Opening Your Shell
 
