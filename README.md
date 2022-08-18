@@ -26,13 +26,14 @@ This lab's lecture segments were adapted from the following PBS *[Crash Course C
 
 # Table of Contents
 - [Lecture & Live Coding](#lecture--live-coding)
+- [Key Terms](#key-terms)
 - [Lab Notebook Template](#lab-notebook-template)
 - [Operating Systems](#operating-systems)
 - [Working at the Command Line](#working-at-the-command-line)
 - [Putting It All Together](#putting-it-all-together)
 - [Lab Notebook Questions](#lab-notebook-questions)
 
-# Lecture & Live Coding
+## Lecture & Live Coding
 
 Throughout this lab, you will see a Panopto icon at the start of select sections.
 
@@ -49,7 +50,11 @@ Example:
   </tr>
   </table>
 
-# Lab Notebook Template
+## Key Terms
+
+[Click here](https://github.com/kwaldenphd/computer-interfaces/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
+
+## Lab Notebook Template
 
 [Link to lab notebook template](https://docs.google.com/document/d/11zPRqQiJG_UBU3Ja6DB32oKqM_6VGXCGbjGXuzSoHR4/copy) (ND users, Google Doc)
 
@@ -109,6 +114,8 @@ Examples of specific operating systems include:
 
 **Personal Computer**
 - "A personal computer (PC) is a multi-purpose microcomputer whose size, capabilities, and price make it feasible for individual use. Personal computers are intended to be operated directly by an end user, rather than by a computer expert or technician" ([Wikipedia](https://en.wikipedia.org/wiki/Personal_computer))
+
+[Click here](https://github.com/kwaldenphd/computer-interfaces/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
 
 ## Comprehension Check
 
@@ -179,6 +186,8 @@ Windows users will need to take one extra step and install Git Bash.
 
 **Shell**
 - The shell is the user interface for accessing all of the operating system’s services and applications. The shell is the layer of code surrounding the operating system kernel. Your operating system’s shell is the command processor that runs in the CLI (command-line interface) as opposed to the GUI interface that we typically use.
+
+[Click here](https://github.com/kwaldenphd/computer-interfaces/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
 
 For more background and additional information:
 - [Crash Course Computer Science, "Keyboards & Command Line Interfaces"](https://nerdfighteria.info/v/4RPtJ9UyHS0/)
@@ -266,6 +275,8 @@ Not all commands require arguments or options, but some commands can have one or
 
 **Relative Path**
 - "a relative path starts from some given working directory, avoiding the need to provide the full absolute path" ([Wikipedia](https://en.wikipedia.org/wiki/Path_(computing)#Absolute_and_relative_paths))
+
+[Click here](https://github.com/kwaldenphd/computer-interfaces/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
 
 Before we start moving around, let's use the `pwd` (print working directory` command to show your current location. Type `pwd` in the terminal and press `Enter` or `Return`. Your output might look something like this:
 ```
