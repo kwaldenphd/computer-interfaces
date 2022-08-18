@@ -121,7 +121,7 @@ Examples of specific operating systems include:
 
 <table>
  <tr><td>
-<img src="https://www.freeiconspng.com/thumbs/survey-icon/survey-icon-12.png" alt="Clipboard icon" width="50"/></td>
+<img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/clipboard.png?raw=true" alt="Clipboard icon" width="50"/></td>
   <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScQoRbyDYB2Cisg_AmfMhUqj8qXn0ZbeuembRhQpOnbb64I2g/viewform?usp=sf_link">OS Comprehension Check</a></td>
   </tr>
   </table>
@@ -332,7 +332,7 @@ Instead of using `cd` followed by a relative or absolute path, we can use `cd ..
 
 <table>
  <tr><td>
-<img src="https://www.freeiconspng.com/thumbs/survey-icon/survey-icon-12.png" alt="Clipboard icon" width="50"/></td>
+<img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/clipboard.png?raw=true" alt="Clipboard icon" width="50"/></td>
   <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScQoRbyDYB2Cisg_AmfMhUqj8qXn0ZbeuembRhQpOnbb64I2g/viewform?usp=sf_link">CLI Comprehension Check</a></td>
   </tr>
   </table>
