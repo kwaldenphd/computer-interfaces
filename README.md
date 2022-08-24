@@ -270,7 +270,7 @@ Not all commands require arguments or options, but some commands can have one or
 
 #### `pwd`
 
-Before we start moving around, let's use the `pwd` (print working directory` command to show your current location. Type `pwd` in the terminal and press `Enter` or `Return`. Your output might look something like this:
+Before we start moving around, let's use the `pwd` (print working directory) command to show your current location. Type `pwd` in the terminal and press `Enter` or `Return`. Your output might look something like this:
 ```
 /Users/kwalden
 ```
