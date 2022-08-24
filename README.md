@@ -341,6 +341,12 @@ Describe/explain what these commands do:
 
 Difference between relative and absolute path
 
+## Application
+
+QX: Describe experience working through different tasks in the previous section of the lab. How does your navigation of the computer at the command line compare other ways of navigating a computer’s user interface?
+
+QX: When you use the ls -l (lower-case letter l, lower-case letter s, space, dash, lower-case letter l) command, can you decipher the information that is displayed? Watch https://youtu.be/exQNuYxqFpA to help decode the information.
+
 ## Additional Resources
 
 If you want to further explore command line syntax:
@@ -349,11 +355,6 @@ If you want to further explore command line syntax:
 - Ian Milligan and James Baker, "Introduction to the Bash Command Line," The Programming Historian 3 (2014), https://doi.org/10.46430/phen0037.
 - Miriam Posner, "[Getting Started With Unix](https://github.com/miriamposner/unix/blob/main/getting_started_with_commandline.md)" tutorial
 
-## Application
-
-QX: Describe experience working through different tasks in the previous section of the lab. How does your navigation of the computer at the command line compare other ways of navigating a computer’s user interface?
-
-QX: When you use the ls -l (lower-case letter l, lower-case letter s, space, dash, lower-case letter l) command, can you decipher the information that is displayed? Watch https://youtu.be/exQNuYxqFpA to help decode the information.
 
 # Lab Notebook Questions
 
