@@ -30,7 +30,6 @@ This lab's lecture segments were adapted from the following PBS *[Crash Course C
 - [Lab Notebook Template](#lab-notebook-template)
 - [Operating Systems](#operating-systems)
 - [Working at the Command Line](#working-at-the-command-line)
-- [Putting It All Together](#putting-it-all-together)
 - [Lab Notebook Questions](#lab-notebook-questions)
 
 ## Lecture & Live Coding
