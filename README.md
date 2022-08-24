@@ -268,6 +268,8 @@ Not all commands require arguments or options, but some commands can have one or
 
 [Click here](https://github.com/kwaldenphd/computer-interfaces/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
 
+#### `pwd`
+
 Before we start moving around, let's use the `pwd` (print working directory` command to show your current location. Type `pwd` in the terminal and press `Enter` or `Return`. Your output might look something like this:
 ```
 /Users/kwalden
