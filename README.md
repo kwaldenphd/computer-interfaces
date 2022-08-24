@@ -126,15 +126,6 @@ Examples of specific operating systems include:
   </tr>
   </table>
   
-COMPREHENSION CHECK
-
-What is NOT something an OS is responsible for
-
-Describe core OS components in your own words
-kernel
-drivers
-APIs
-
 ## Application
 
 QX: Explore your OS something something. Get your OS specs, what changed in the last update, what's coming up in the next update, what are the big changes
