@@ -95,7 +95,7 @@ Examples of specific operating systems include:
 **Device Drivers**
 - software that allows the OS to interface with hardware (graphics cards, printers, network adapters, etc.)
 
-**Application Programming Interfaces (APIs) & Application Software*
+**Application Programming Interfaces (APIs) & Application Software**
 - software that allows the user to interact with the OS
 
 **Virtual Memory**
