@@ -159,7 +159,7 @@ The sections of this lab that involve working at the command line are based on a
 - Ian Milligan and James Baker, "Introduction to the Bash Command Line," The Programming Historian 3 (2014), https://doi.org/10.46430/phen0037.
 - Miriam Posner, "[Getting Started With Unix](https://github.com/miriamposner/unix/blob/main/getting_started_with_commandline.md)" tutorial
 
-<blockquote><em>The Programming Historian</em> is a multi-language, peer-reviewed online resource with "novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching" ("<a href="https://programminghistorian.org">The Programming Historian</a>").</blockquote>
+<blockquote><em>The Programming Historian</em> is a multi-language, peer-reviewed online resource with "novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching" (<a href="https://programminghistorian.org">The Programming Historian</a>).</blockquote>
 
 <p align="center"><img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Mac_GUI.png?raw=true" width="500"></p>
 
