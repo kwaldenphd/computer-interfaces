@@ -1,4 +1,4 @@
-# Key Terms
+# Key Concepts
 
 **Absolute Path**
 - "An absolute or full path points to the same location in a file system, regardless of the current working directory. To do that, it must include the root directory" ([Wikipedia](https://en.wikipedia.org/wiki/Path_(computing)#Absolute_and_relative_paths))
