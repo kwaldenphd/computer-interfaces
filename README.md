@@ -237,7 +237,7 @@ This is a terminal window, also called a `shell`. The active cursor showing up i
 
 First, we can check your username using the `whoami` command. Type `whoami` in the shell and hit the `Enter` or `Return` key. The terminal returns your username, and the command prompt is ready for another command or instruction.
 
-Let's try another command- this type, we'll use `echo` to repeat a set of characters in quotation marks. Type `echo 'Hello world!' into the terminal and hit the 'Enter' or 'Return' key. The `echo` command instructs the terminal to repeat whichever characters you include in the quotation marks.
+Let's try another command- this type, we'll use `echo` to repeat a set of characters in quotation marks. Type `echo 'Hello world!'` into the terminal and hit the 'Enter' or 'Return' key. The `echo` command instructs the terminal to repeat whichever characters you include in the quotation marks.
 
 ## Typing Commands in the Terminal
 
