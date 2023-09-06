@@ -29,7 +29,7 @@ This lab's lecture segments were adapted from the following PBS *[Crash Course C
 - [Key Concepts](#key-concepts)
 - [Lab Notebook Template](#lab-notebook-template)
 - [Operating Systems](#operating-systems)
-- [Working at the Command Line](#working-at-the-command-line)
+- [Tutorial: Working at the Command Line](#tutorial-working-at-the-command-line)
 - [Lab Notebook Questions](#lab-notebook-questions)
 
 ## Lecture & Live Coding
@@ -153,9 +153,9 @@ Specific questions to consider:
 - Remzi Arpaci-Dusseau and Andrea Arpaci-Dusseau, *[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)* (Arpaci-Dusseau Books, 2018)
 - Naresh Chauhan, *Principles of Operating Systems* (Oxford University Press, 2014). [Link to access through Notre Dame Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004609730)
 
-# Working at the Command Line
+# Tutorial: Working at the Command Line
 
-The sections of this lab that involve working at the command line are based on and adapts content from the following tutorials:
+The sections of this lab that involve working at the command line are based on and adapt content from the following tutorials:
 - Ian Milligan and James Baker, "Introduction to the Bash Command Line," The Programming Historian 3 (2014), https://doi.org/10.46430/phen0037.
 - Miriam Posner, "[Getting Started With Unix](https://github.com/miriamposner/unix/blob/main/getting_started_with_commandline.md)" tutorial
 
@@ -163,7 +163,7 @@ The sections of this lab that involve working at the command line are based on a
 
 <p align="center"><img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Mac_GUI.png?raw=true" width="500"></p>
 
-The usual way that computer users today interact with their system is through a Graphical-User Interface, or GUI. This means that when you go into a folder, you click on a picture of a file folder; when you run a program, you click on it; and when you browse the web, you use your mouse to interact with various elements on a webpage. Before the rise of GUIs in the late 1980s, however, the primary way to interact with a computer was through a command-line interface (CLI).
+The usual way that computer users today interact with their system is through a Graphical-User Interface, or GUI (*pronounced "gooey" or "G-U-I"*). This means that when you go into a folder, you click on a picture of a file folder; when you run a program, you click on it; and when you browse the web, you use your mouse to interact with various elements on a webpage. Before the rise of GUIs as a central part of personal computer operating systems in the late 1980s, however, the primary way to interact with a computer was through a command-line interface (CLI).
 
 <p align="center"><img src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Shell.png?raw=true" width="500"></p>
 
@@ -201,7 +201,7 @@ For more background and additional information:
 - [Crash Course Computer Science, "Keyboards & Command Line Interfaces"](https://nerdfighteria.info/v/4RPtJ9UyHS0/)
 - [Crash Course Computer Science, "Graphical User Interfaces"](https://nerdfighteria.info/v/XIGSJshYb90/)
 
-## Opening Your Shell
+## Tutorial: Opening Your Shell
 
 *NOTE: The following screenshots show the Mac OS terminal/shell. Folks with other operating systems should still be able to follow the procedural steps.*
 
@@ -227,7 +227,7 @@ For Mac users who want to customize the terminal's visual appearance:
 
 Windows users can right-click on the application's top bar and select `Properties` to open the `Properties` tab.
 
-## Terminal Wayfinding
+## Tutorial: Terminal Wayfinding
 
 <p align="center"><img align="center" src="https://github.com/kwaldenphd/computer-interfaces/blob/main/images/Fig_C.jpeg?raw=true" alt="Image of Mac shell"></p>
 
@@ -239,7 +239,7 @@ First, we can check your username using the `whoami` command. Type `whoami` in t
 
 Let's try another command- this type, we'll use `echo` to repeat a set of characters in quotation marks. Type `echo 'Hello world!'` into the terminal and hit the 'Enter' or 'Return' key. The `echo` command instructs the terminal to repeat whichever characters you include in the quotation marks.
 
-## Typing Commands in the Terminal
+## Tutorial: Typing Commands in the Terminal
 
 You may have already noticed you're not able to navigate the terminal using your mouse or cursor. We can navigate the terminal using the keyboard. The `up` and `down` arrow keys let you move back (up) and forward (down) through previously typed commands. The `left` and `right` arrow keys let you move within characters or symbols for a specific command.
 
@@ -261,9 +261,9 @@ A couple notes on terminal syntax:
 
 Not all commands require arguments or options, but some commands can have one or more of each. You can also chain multiple commands together using the vertical bar `|` symbol. This is often called a `pipe`.
 
-### Navigating Your File System
+## Tutorial: Navigating Your File System
 
-#### Key Concepts
+### Key Concepts
 
 **File Manager (or File Browser)**
 - "A file manager or file browser is a computer program that provides a user interface to manage files and folders. The most common operations performed on files or groups of files include creating, opening (e.g. viewing, playing, editing or printing), renaming, copying, moving, deleting and searching for files, as well as modifying file attributes, properties and file permissions. Folders and files may be displayed in a hierarchical tree based on their directory structure" ([Wikipedia](https://en.wikipedia.org/wiki/File_manager))
@@ -286,7 +286,7 @@ Not all commands require arguments or options, but some commands can have one or
 
 [Click here](https://github.com/kwaldenphd/computer-interfaces/blob/main/key-concepts.md) for a full list of key concepts and definitions for this lab.
 
-#### `pwd`
+### `pwd`
 
 Before we start moving around, let's use the `pwd` (print working directory) command to show your current location. Type `pwd` in the terminal and press `Enter` or `Return`. Your output might look something like this:
 ```
@@ -310,7 +310,7 @@ The inverted tree diagram shown above shows one example of a computer's file sys
 
 If you have ever used `File Explorer` (Windows) or `Finder` (Mac), you have navigated this tree structure using the graphical user interface (GUI). Now let's think about how we navigate this structure using the command line interface (CLI).
 
-#### `ls`
+### `ls`
 
 Typically by default, your terminal will open in the folder or directory for your user profile.
 - But you can check this using the `pwd` (print working directory) command
@@ -321,7 +321,7 @@ Let's see what other files and subdirectories are located in your current path b
 
 Items that are followed by a file extension (e.g. `.docx`, `.txt`, `.xlsx`, etc) are generally individual files. Items that do not have a file extension are typically subfolders or subdirectories.
 
-#### `cd`
+### `cd`
 
 We can move down the tree using the `change directory` command (`cd`). Let's move from your user profile folder to the Desktop.
 
